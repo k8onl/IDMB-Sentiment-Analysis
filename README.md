@@ -1,5 +1,4 @@
-#Sentiment Analysis on IMDb Movie Reviews
-
+Sentiment Analysis on IMDb Movie Reviews
 Description
 
 This project realizes a sentiment analysis pipeline for IMDb movie reviews to predict whether they are positive or negative. The notebook carries out exhaustive text preprocessing, exploratory data analysis (EDA), and model training with machine learning. It also has functionality to predict the sentiment of new user-input reviews.
